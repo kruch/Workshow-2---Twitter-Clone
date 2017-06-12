@@ -1,0 +1,25 @@
+
+    .centerElements {
+        margin: auto;
+        width: 50%;
+        
+        padding: 10px;
+    }
+
+
+.body{
+    background-color: grey;
+    color: black;
+    text-align: center;
+    margin: auto;
+
+}
+
+.centerText {
+    text-align: center;
+    border: 3px solid green;
+}
+
+h1 {
+    text-align: center;
+}
